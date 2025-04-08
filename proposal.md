@@ -1,5 +1,6 @@
 # PROPOSAL TP-DSW-305
 
+
 ## TEAM
 ### TEAM MEMBERS
 * Mayra Belen, Zapata - 42969
@@ -15,5 +16,22 @@ The project is about developing a full stack web application for a simple ecomme
 
 ### MODEL OR CLASESS DIAGRAM
 !aca hay que adjuntar link de draw.io
+
+
+## FUNCTIONAL SCOPE
+
+### MINIMUM SCOPE
+
+Regularity:
+|Req|Detail|
+|:-|:-|
+|Simple CRUD|1. CRUD-User<br>2. CRUD-Book<br>|
+|Dependent CRUD|1. CRUD-Purchase {depends on} CRUD-User, CRUD-Book<br>|
+
+Adicionales para Aprobación:
+|Req|DetaIL|
+|:-|:-|
+|CRUD |1. CRUD-category <br>2. CRUD-Review <br>|
+|CUU/Epic|1. User purchases books and leaves a review (A user selects a book, adds it to the cart, completes the purchase, and can later leave a review for that book. This flow adds value by connecting catalog browsing with post-purchase engagement and feedback.)|
 
 
