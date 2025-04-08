@@ -1,12 +1,13 @@
 # PROPOSAL TP-DSW-305
 
-##TEAM
-###TEAM MEMBERS
+## TEAM
+### TEAM MEMBERS
 * Mayra Belen, Zapata - 42969
 * Sarahis, Cabezas - xxxxx
 
-##SUBJECT
-###OVERVIEW
+
+## SUBJECT
+### OVERVIEW
 
 ### 'ManyBooks'
 
