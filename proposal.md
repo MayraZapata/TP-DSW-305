@@ -28,7 +28,7 @@ Regularity:
 |Simple CRUD|1. CRUD-User<br>2. CRUD-Book<br>|
 |Dependent CRUD|1. CRUD-Purchase {depends on} CRUD-User, CRUD-Book<br>|
 
-Adicionales para Aprobación:
+Additional Requirements for AD:
 |Req|DetaIL|
 |:-|:-|
 |CRUD |1. CRUD-category <br>2. CRUD-Review <br>|
